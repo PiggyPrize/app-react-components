@@ -13,7 +13,7 @@ var currentPoolData = require('@pooltogether/current-pool-data');
 var jotai = require('jotai');
 var Link = require('next/link');
 var reactI18next = require('react-i18next');
-var reactComponents = require('@pooltogether/react-components');
+var reactComponents = require('app-react-components');
 var blockies = require('@download/blockies');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
