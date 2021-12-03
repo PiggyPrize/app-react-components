@@ -1,0 +1,8 @@
+'use strict';
+
+var index = require('../node_modules/copy-to-clipboard/index.js');
+
+
+
+module.exports = index;
+//# sourceMappingURL=index3.js_commonjs-proxy.map

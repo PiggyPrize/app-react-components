@@ -1,0 +1,8 @@
+'use strict';
+
+var index = require('../node_modules/evm-chains/dist/cjs/index.js');
+
+
+
+module.exports = index.cjs;
+//# sourceMappingURL=index8.js_commonjs-proxy.map

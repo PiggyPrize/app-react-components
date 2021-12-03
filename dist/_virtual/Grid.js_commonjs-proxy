@@ -1,0 +1,8 @@
+'use strict';
+
+var Grid = require('../node_modules/react-loader-spinner/dist/loader/Grid.js');
+
+
+
+module.exports = Grid.Grid_1;
+//# sourceMappingURL=Grid.js_commonjs-proxy.map

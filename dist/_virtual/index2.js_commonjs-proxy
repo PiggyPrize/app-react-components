@@ -1,0 +1,9 @@
+'use strict';
+
+var _commonjsHelpers = require('./_commonjsHelpers.js');
+var index = require('../node_modules/react-hotkeys/es/index.js');
+
+var require$$1 = /*@__PURE__*/_commonjsHelpers.getAugmentedNamespace(index);
+
+module.exports = require$$1;
+//# sourceMappingURL=index2.js_commonjs-proxy.map

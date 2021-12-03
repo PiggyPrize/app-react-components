@@ -1,0 +1,8 @@
+'use strict';
+
+var index = require('../node_modules/toggle-selection/index.js');
+
+
+
+module.exports = index;
+//# sourceMappingURL=index4.js_commonjs-proxy.map

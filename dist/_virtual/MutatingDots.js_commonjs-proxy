@@ -1,0 +1,8 @@
+'use strict';
+
+var MutatingDots = require('../node_modules/react-loader-spinner/dist/loader/MutatingDots.js');
+
+
+
+module.exports = MutatingDots.MutatingDots_1;
+//# sourceMappingURL=MutatingDots.js_commonjs-proxy.map

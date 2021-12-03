@@ -1,0 +1,8 @@
+'use strict';
+
+var prizePoolContracts = require('../node_modules/@pooltogether/current-pool-data/prizePoolContracts.js');
+
+
+
+module.exports = prizePoolContracts;
+//# sourceMappingURL=prizePoolContracts.js_commonjs-proxy.map

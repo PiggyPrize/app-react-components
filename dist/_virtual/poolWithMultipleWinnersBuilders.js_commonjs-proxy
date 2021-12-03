@@ -1,0 +1,8 @@
+'use strict';
+
+var poolWithMultipleWinnersBuilders = require('../node_modules/@pooltogether/current-pool-data/poolWithMultipleWinnersBuilders.js');
+
+
+
+module.exports = poolWithMultipleWinnersBuilders;
+//# sourceMappingURL=poolWithMultipleWinnersBuilders.js_commonjs-proxy.map

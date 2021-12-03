@@ -1,0 +1,8 @@
+'use strict';
+
+var Oval = require('../node_modules/react-loader-spinner/dist/loader/Oval.js');
+
+
+
+module.exports = Oval.Oval_1;
+//# sourceMappingURL=Oval.js_commonjs-proxy.map

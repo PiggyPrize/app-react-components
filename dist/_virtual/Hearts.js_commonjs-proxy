@@ -1,0 +1,8 @@
+'use strict';
+
+var Hearts = require('../node_modules/react-loader-spinner/dist/loader/Hearts.js');
+
+
+
+module.exports = Hearts.Hearts_1;
+//# sourceMappingURL=Hearts.js_commonjs-proxy.map

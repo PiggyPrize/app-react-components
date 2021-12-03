@@ -1,0 +1,8 @@
+'use strict';
+
+var Plane = require('../node_modules/react-loader-spinner/dist/loader/Plane.js');
+
+
+
+module.exports = Plane.Plane_1;
+//# sourceMappingURL=Plane.js_commonjs-proxy.map

@@ -1,0 +1,8 @@
+'use strict';
+
+var Puff = require('../node_modules/react-loader-spinner/dist/loader/Puff.js');
+
+
+
+module.exports = Puff.Puff_1;
+//# sourceMappingURL=Puff.js_commonjs-proxy.map

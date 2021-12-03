@@ -1,0 +1,8 @@
+'use strict';
+
+var index = require('../node_modules/react-is/index.js');
+
+
+
+module.exports = index;
+//# sourceMappingURL=index6.js_commonjs-proxy.map

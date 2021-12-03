@@ -1,0 +1,15 @@
+'use strict';
+
+var _commonjsHelpers = require('./_commonjsHelpers.js');
+var removeClass = require('../node_modules/dom-helpers/esm/removeClass.js');
+
+function _interopNamespaceDefaultOnly(e) {
+	return Object.freeze({__proto__: null, 'default': e});
+}
+
+var removeClass__namespace = /*#__PURE__*/_interopNamespaceDefaultOnly(removeClass);
+
+var require$$2 = /*@__PURE__*/_commonjsHelpers.getAugmentedNamespace(removeClass__namespace);
+
+module.exports = require$$2;
+//# sourceMappingURL=removeClass.js_commonjs-proxy.map

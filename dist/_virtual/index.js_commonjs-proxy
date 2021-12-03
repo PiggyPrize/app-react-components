@@ -1,0 +1,8 @@
+'use strict';
+
+var index = require('../node_modules/react-loader-spinner/dist/loader/index.js');
+
+
+
+module.exports = index.loader;
+//# sourceMappingURL=index.js_commonjs-proxy.map

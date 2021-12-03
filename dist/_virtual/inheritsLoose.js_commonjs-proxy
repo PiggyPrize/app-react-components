@@ -1,0 +1,8 @@
+'use strict';
+
+var inheritsLoose = require('../node_modules/@babel/runtime/helpers/inheritsLoose.js');
+
+
+
+module.exports = inheritsLoose.inheritsLoose;
+//# sourceMappingURL=inheritsLoose.js_commonjs-proxy.map

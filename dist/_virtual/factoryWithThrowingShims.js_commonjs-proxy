@@ -1,0 +1,8 @@
+'use strict';
+
+var factoryWithThrowingShims = require('../node_modules/prop-types/factoryWithThrowingShims.js');
+
+
+
+module.exports = factoryWithThrowingShims;
+//# sourceMappingURL=factoryWithThrowingShims.js_commonjs-proxy.map

@@ -1,0 +1,8 @@
+'use strict';
+
+var index = require('../node_modules/prop-types/index.js');
+
+
+
+module.exports = index;
+//# sourceMappingURL=index5.js_commonjs-proxy.map

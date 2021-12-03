@@ -1,0 +1,8 @@
+'use strict';
+
+var PropTypes = require('../node_modules/react-transition-group/cjs/utils/PropTypes.js');
+
+
+
+module.exports = PropTypes.PropTypes;
+//# sourceMappingURL=PropTypes.js_commonjs-proxy.map

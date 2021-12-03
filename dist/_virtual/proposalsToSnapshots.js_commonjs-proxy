@@ -1,0 +1,8 @@
+'use strict';
+
+var proposalsToSnapshots = require('../node_modules/@pooltogether/current-pool-data/proposalsToSnapshots.js');
+
+
+
+module.exports = proposalsToSnapshots;
+//# sourceMappingURL=proposalsToSnapshots.js_commonjs-proxy.map
