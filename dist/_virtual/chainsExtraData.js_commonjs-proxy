@@ -1,0 +1,8 @@
+'use strict';
+
+var chainsExtraData = require('../node_modules/@pooltogether/evm-chains-extended/dist/cjs/chainsExtraData.js');
+
+
+
+module.exports = chainsExtraData['default'];
+//# sourceMappingURL=chainsExtraData.js_commonjs-proxy.map

@@ -1,0 +1,8 @@
+'use strict';
+
+var erc20BlockList = require('../node_modules/@pooltogether/current-pool-data/erc20BlockList.js');
+
+
+
+module.exports = erc20BlockList;
+//# sourceMappingURL=erc20BlockList.js_commonjs-proxy.map

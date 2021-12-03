@@ -1,0 +1,8 @@
+'use strict';
+
+var CradleLoader = require('../node_modules/react-loader-spinner/dist/loader/CradleLoader.js');
+
+
+
+module.exports = CradleLoader.CradleLoader_1;
+//# sourceMappingURL=CradleLoader.js_commonjs-proxy.map

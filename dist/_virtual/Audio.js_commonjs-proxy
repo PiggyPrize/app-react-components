@@ -1,0 +1,8 @@
+'use strict';
+
+var Audio = require('../node_modules/react-loader-spinner/dist/loader/Audio.js');
+
+
+
+module.exports = Audio.Audio_1;
+//# sourceMappingURL=Audio.js_commonjs-proxy.map

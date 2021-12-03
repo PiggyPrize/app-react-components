@@ -1,0 +1,8 @@
+'use strict';
+
+var contractAddresses = require('../node_modules/@pooltogether/current-pool-data/contractAddresses.js');
+
+
+
+module.exports = contractAddresses;
+//# sourceMappingURL=contractAddresses.js_commonjs-proxy.map

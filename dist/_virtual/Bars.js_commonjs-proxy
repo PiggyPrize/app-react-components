@@ -1,0 +1,8 @@
+'use strict';
+
+var Bars = require('../node_modules/react-loader-spinner/dist/loader/Bars.js');
+
+
+
+module.exports = Bars.Bars_1;
+//# sourceMappingURL=Bars.js_commonjs-proxy.map

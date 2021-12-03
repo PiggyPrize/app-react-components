@@ -1,0 +1,8 @@
+'use strict';
+
+var chains = require('../node_modules/evm-chains/dist/cjs/chains.js');
+
+
+
+module.exports = chains['default'];
+//# sourceMappingURL=chains.js_commonjs-proxy.map

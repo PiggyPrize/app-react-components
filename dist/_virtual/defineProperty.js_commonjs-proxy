@@ -1,0 +1,8 @@
+'use strict';
+
+var defineProperty = require('../node_modules/@babel/runtime/helpers/defineProperty.js');
+
+
+
+module.exports = defineProperty.defineProperty;
+//# sourceMappingURL=defineProperty.js_commonjs-proxy.map

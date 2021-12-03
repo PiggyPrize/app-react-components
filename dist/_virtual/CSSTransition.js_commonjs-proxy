@@ -1,0 +1,8 @@
+'use strict';
+
+var CSSTransition = require('../node_modules/react-transition-group/cjs/CSSTransition.js');
+
+
+
+module.exports = CSSTransition.CSSTransition_1;
+//# sourceMappingURL=CSSTransition.js_commonjs-proxy.map

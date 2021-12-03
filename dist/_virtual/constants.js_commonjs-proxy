@@ -1,0 +1,8 @@
+'use strict';
+
+var constants = require('../node_modules/@pooltogether/current-pool-data/constants.js');
+
+
+
+module.exports = constants;
+//# sourceMappingURL=constants.js_commonjs-proxy.map

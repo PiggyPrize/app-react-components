@@ -1,0 +1,8 @@
+'use strict';
+
+var Circles = require('../node_modules/react-loader-spinner/dist/loader/Circles.js');
+
+
+
+module.exports = Circles.Circles_1;
+//# sourceMappingURL=Circles.js_commonjs-proxy.map

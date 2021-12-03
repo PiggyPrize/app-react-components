@@ -1,0 +1,15 @@
+'use strict';
+
+var _commonjsHelpers = require('./_commonjsHelpers.js');
+var addClass = require('../node_modules/dom-helpers/esm/addClass.js');
+
+function _interopNamespaceDefaultOnly(e) {
+	return Object.freeze({__proto__: null, 'default': e});
+}
+
+var addClass__namespace = /*#__PURE__*/_interopNamespaceDefaultOnly(addClass);
+
+var require$$1 = /*@__PURE__*/_commonjsHelpers.getAugmentedNamespace(addClass__namespace);
+
+module.exports = require$$1;
+//# sourceMappingURL=addClass.js_commonjs-proxy.map

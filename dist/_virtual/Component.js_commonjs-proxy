@@ -1,0 +1,8 @@
+'use strict';
+
+var Component = require('../node_modules/react-copy-to-clipboard/lib/Component.js');
+
+
+
+module.exports = Component.Component;
+//# sourceMappingURL=Component.js_commonjs-proxy.map

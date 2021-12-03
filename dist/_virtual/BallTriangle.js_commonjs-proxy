@@ -1,0 +1,8 @@
+'use strict';
+
+var BallTriangle = require('../node_modules/react-loader-spinner/dist/loader/BallTriangle.js');
+
+
+
+module.exports = BallTriangle.BallTriangle_1;
+//# sourceMappingURL=BallTriangle.js_commonjs-proxy.map

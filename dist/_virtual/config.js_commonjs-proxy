@@ -1,0 +1,8 @@
+'use strict';
+
+var config = require('../node_modules/react-transition-group/cjs/config.js');
+
+
+
+module.exports = config.config;
+//# sourceMappingURL=config.js_commonjs-proxy.map
