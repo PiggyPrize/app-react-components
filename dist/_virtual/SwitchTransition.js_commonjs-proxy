@@ -1,0 +1,8 @@
+'use strict';
+
+var SwitchTransition = require('../node_modules/react-transition-group/cjs/SwitchTransition.js');
+
+
+
+module.exports = SwitchTransition.SwitchTransition_1;
+//# sourceMappingURL=SwitchTransition.js_commonjs-proxy.map

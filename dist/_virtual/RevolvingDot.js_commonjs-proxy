@@ -1,0 +1,8 @@
+'use strict';
+
+var RevolvingDot = require('../node_modules/react-loader-spinner/dist/loader/RevolvingDot.js');
+
+
+
+module.exports = RevolvingDot.RevolvingDot_1;
+//# sourceMappingURL=RevolvingDot.js_commonjs-proxy.map

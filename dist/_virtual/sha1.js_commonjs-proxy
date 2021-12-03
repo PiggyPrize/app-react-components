@@ -1,0 +1,8 @@
+'use strict';
+
+var sha1 = require('../node_modules/react-tooltip/node_modules/uuid/dist/sha1.js');
+
+
+
+module.exports = sha1.sha1_1;
+//# sourceMappingURL=sha1.js_commonjs-proxy.map

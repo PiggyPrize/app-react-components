@@ -1,0 +1,8 @@
+'use strict';
+
+var v4 = require('../node_modules/react-tooltip/node_modules/uuid/dist/v4.js');
+
+
+
+module.exports = v4.v4_1;
+//# sourceMappingURL=v4.js_commonjs-proxy.map

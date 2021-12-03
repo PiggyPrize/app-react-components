@@ -1,0 +1,8 @@
+'use strict';
+
+var Rings = require('../node_modules/react-loader-spinner/dist/loader/Rings.js');
+
+
+
+module.exports = Rings.Rings_1;
+//# sourceMappingURL=Rings.js_commonjs-proxy.map

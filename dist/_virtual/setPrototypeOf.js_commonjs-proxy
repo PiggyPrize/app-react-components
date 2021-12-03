@@ -1,0 +1,8 @@
+'use strict';
+
+var setPrototypeOf = require('../node_modules/@babel/runtime/helpers/setPrototypeOf.js');
+
+
+
+module.exports = setPrototypeOf.setPrototypeOf;
+//# sourceMappingURL=setPrototypeOf.js_commonjs-proxy.map

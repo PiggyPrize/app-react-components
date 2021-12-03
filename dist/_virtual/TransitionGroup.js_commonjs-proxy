@@ -1,0 +1,8 @@
+'use strict';
+
+var TransitionGroup = require('../node_modules/react-transition-group/cjs/TransitionGroup.js');
+
+
+
+module.exports = TransitionGroup.TransitionGroup_1;
+//# sourceMappingURL=TransitionGroup.js_commonjs-proxy.map

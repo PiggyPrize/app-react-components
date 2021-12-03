@@ -1,0 +1,8 @@
+'use strict';
+
+var ReplaceTransition = require('../node_modules/react-transition-group/cjs/ReplaceTransition.js');
+
+
+
+module.exports = ReplaceTransition.ReplaceTransition_1;
+//# sourceMappingURL=ReplaceTransition.js_commonjs-proxy.map

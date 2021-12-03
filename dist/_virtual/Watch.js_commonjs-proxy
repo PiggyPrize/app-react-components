@@ -1,0 +1,8 @@
+'use strict';
+
+var Watch = require('../node_modules/react-loader-spinner/dist/loader/Watch.js');
+
+
+
+module.exports = Watch.Watch_1;
+//# sourceMappingURL=Watch.js_commonjs-proxy.map

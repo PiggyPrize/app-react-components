@@ -1,0 +1,8 @@
+'use strict';
+
+var utils = require('../node_modules/evm-chains/dist/cjs/utils.js');
+
+
+
+module.exports = utils['default'];
+//# sourceMappingURL=utils2.js_commonjs-proxy.map

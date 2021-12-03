@@ -1,0 +1,8 @@
+'use strict';
+
+var rng = require('../node_modules/react-tooltip/node_modules/uuid/dist/rng.js');
+
+
+
+module.exports = rng.rng_1;
+//# sourceMappingURL=rng.js_commonjs-proxy.map

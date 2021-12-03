@@ -1,0 +1,8 @@
+'use strict';
+
+var subgraphUris = require('../node_modules/@pooltogether/current-pool-data/subgraphUris.js');
+
+
+
+module.exports = subgraphUris;
+//# sourceMappingURL=subgraphUris.js_commonjs-proxy.map

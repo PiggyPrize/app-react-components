@@ -1,0 +1,8 @@
+'use strict';
+
+var ThreeDots = require('../node_modules/react-loader-spinner/dist/loader/ThreeDots.js');
+
+
+
+module.exports = ThreeDots.ThreeDots_1;
+//# sourceMappingURL=ThreeDots.js_commonjs-proxy.map

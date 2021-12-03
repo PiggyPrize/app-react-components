@@ -1,0 +1,8 @@
+'use strict';
+
+var Triangle = require('../node_modules/react-loader-spinner/dist/loader/Triangle.js');
+
+
+
+module.exports = Triangle.Triangle_1;
+//# sourceMappingURL=Triangle.js_commonjs-proxy.map

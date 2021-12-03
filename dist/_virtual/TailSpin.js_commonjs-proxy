@@ -1,0 +1,8 @@
+'use strict';
+
+var TailSpin = require('../node_modules/react-loader-spinner/dist/loader/TailSpin.js');
+
+
+
+module.exports = TailSpin.TailSpin_1;
+//# sourceMappingURL=TailSpin.js_commonjs-proxy.map

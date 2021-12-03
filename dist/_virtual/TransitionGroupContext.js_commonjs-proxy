@@ -1,0 +1,8 @@
+'use strict';
+
+var TransitionGroupContext = require('../node_modules/react-transition-group/cjs/TransitionGroupContext.js');
+
+
+
+module.exports = TransitionGroupContext.TransitionGroupContext;
+//# sourceMappingURL=TransitionGroupContext.js_commonjs-proxy.map
